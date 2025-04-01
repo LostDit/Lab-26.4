@@ -1,0 +1,3 @@
+C:/Users/maksi/CLionProjects/Lab_26.4/imitationAudioplayer/cmake-build-debug/CMakeFiles/imitationAudioplayer.dir
+C:/Users/maksi/CLionProjects/Lab_26.4/imitationAudioplayer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksi/CLionProjects/Lab_26.4/imitationAudioplayer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
