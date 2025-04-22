@@ -6,7 +6,7 @@ class Window {
     int x, y, width, height;
 
     void adjust() {
-        // Вариант 1: с использованием std::min и std::max
+        //Есть вариант с std::clamp для ++17 стандарта библиотеки algorithm, но решил использовать std::max/min
         x = std::max(0, std::min(x, 80 - width));
         y = std::max(0, std::min(y, 50 - height));
     }
